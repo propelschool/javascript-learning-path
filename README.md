@@ -24,7 +24,7 @@
 
 1. Complete the JavaScript Algorithms and Data Structures Certification on [FreeCodeCamp Curriculum](https://learn.freecodecamp.org/).
 2. Complete all Module 0 exerices on [Hackreactor Basic Prep](https://www.hackreactor.com/prep-programs/). Keep a track of all the solutions on Codepen.
-3. Complete the following problems on [HackerRank](https://www.hackreactor.com/prep-programs/).
+3. Complete the following problems on [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bsubdomains%5D%5B%5D=warmup&filters%5Bsubdomains%5D%5B%5D=implementation&filters%5Bsubdomains%5D%5B%5D=strings&filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting&filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bsubdomains%5D%5B%5D=algo-debugging).
 
 ### Data Project
 
