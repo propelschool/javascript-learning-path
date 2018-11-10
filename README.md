@@ -51,6 +51,15 @@ Get the [IPL Dataset](https://www.kaggle.com/manasgarg/ipl)
 
 	Create a Node Web API with MySQL as the backend. Solve the same above problems by getting data using MongoDB queries.
 
+### Time Complexity
+
+Refer to the Time Complexity videos by Ravindrababu Ravula on youtube: [https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
+
+### Unit Testing
+
+Complete module 2 exercises on [Hackreactor Prep](https://www.hackreactor.com/prep-programs/)
+
+Create an account on [Exercism](https://exercism.io/) and practice question in JavaScript.
 
 ## HTML and CSS
 
