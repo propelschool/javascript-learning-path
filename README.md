@@ -37,7 +37,7 @@ Get the [IPL Dataset](https://www.kaggle.com/manasgarg/ipl)
 
 	Part 1
 
-	Code a javascript program that will transform the raw csv data into a data structure in a format suitable for plotting with highcharts.
+	Code a javascript program that will transform the raw csv data into a data structure in a format suitable for plotting with highcharts or any charting library you choose.
 
 	Generate the following plots ...
 
@@ -45,11 +45,11 @@ Get the [IPL Dataset](https://www.kaggle.com/manasgarg/ipl)
 	2. Plot a stacked bar chart of matches won of all teams over all the years of IPL.
 	3. For the year 2016 plot the extra runs conceded per team.
 	4. For the year 2015 plot the top economical bowlers.
-	5. Discuss a "Story" you want to tell with the given data. As with part 1, prepare the data structure and plot with highcharts.
+	5. Discuss a "Story" you want to tell with the given data. As with part 1, prepare the data structure and plot with highcharts or any charting library you choose.
 
 	Part 2
 
-	Create a Node Web API with MySQL as the backend. Solve the same above problems by getting data using MongoDB queries.
+	Create a Node Web API with MySQL as the backend. Solve the same above problems by getting data using SQL queries.
 
 ### Time Complexity
 
