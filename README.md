@@ -18,7 +18,9 @@
 
 [Learn enough Git to be dangerous](https://www.learnenough.com/git-tutorial)
 
-[Resources and Practice](https://try.github.io/levels/1/challenges/1) - Practice the **Learn Git branching** section
+[Resources and Practice](https://learngitbranching.js.org/) - Practice the **Learn Git branching** section
+
+[Gamified Tutorial](https://www.katacoda.com/courses/git) - 
 
 ## JavaScript
 
