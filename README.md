@@ -20,7 +20,7 @@
 
 [Resources and Practice](https://learngitbranching.js.org/) - Practice the **Learn Git branching** section
 
-[Gamified Tutorial](https://www.katacoda.com/courses/git) - 
+[Gamified Tutorial](https://www.katacoda.com/courses/git) - Learn the most common practices in the modern day Git Workflow.
 
 ## JavaScript
 
