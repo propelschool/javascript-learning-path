@@ -23,7 +23,7 @@
 ## JavaScript
 
 1. Complete the JavaScript Algorithms and Data Structures Certification on [FreeCodeCamp Curriculum](https://learn.freecodecamp.org/).
-2. Complete all exercises on [Hackreactor Basic Prep](https://www.hackreactor.com/prep-programs/). Keep a track of all the solutions on Codepen.
+2. Complete all exercises on [Hackreactor Basic Prep](https://prep.hackreactor.com/p/hack-reactor-prep). Keep a track of all the solutions on Codepen.
 3. Complete the following problems on [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bsubdomains%5D%5B%5D=warmup&filters%5Bsubdomains%5D%5B%5D=implementation&filters%5Bsubdomains%5D%5B%5D=strings&filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting&filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bsubdomains%5D%5B%5D=algo-debugging).
 
 ### Data Project
@@ -51,13 +51,15 @@ Get the [IPL Dataset](https://www.kaggle.com/manasgarg/ipl)
 
 	Create a Node Web API with MySQL as the backend. Solve the same above problems by getting data using SQL queries.
 
-### Time Complexity
+### Time Complexity and Space Complexity
 
-Refer to the Time Complexity videos by Ravindrababu Ravula on youtube: [https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
+[Time Complexity Summary](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn) on mycodeschool
+
+Refer to the first 6 videos in the Algorithms and Data Structures course by Ravindrababu Ravula on youtube: [https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
 
 ### Unit Testing
 
-Complete module 2 exercises on [Hackreactor Prep](https://www.hackreactor.com/prep-programs/)
+Complete module 2 exercises on [Hackreactor Prep](https://prep.hackreactor.com/p/hack-reactor-prep)
 
 Create an account on [Exercism](https://exercism.io/) and practice question in JavaScript.
 
