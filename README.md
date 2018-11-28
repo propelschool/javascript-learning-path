@@ -55,9 +55,11 @@ Get the [IPL Dataset](https://www.kaggle.com/manasgarg/ipl)
 
 ### Time Complexity and Space Complexity
 
-[Time Complexity Summary](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn) on mycodeschool
+[Time Complexity Summary](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn) (30 minutes) on mycodeschool - 4 videos
 
-Refer to the first 6 videos in the Algorithms and Data Structures course by Ravindrababu Ravula on youtube: [https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
+[Space Complexity](https://www.youtube.com/watch?v=ncpTxqK35PI) (8 minutes) on mycodeschool
+
+(Optional) Additionally you can refer to the Algorithms and Data Structures course by Ravindrababu Ravula on youtube (First 6 videos cover ): [https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
 
 ### Unit Testing
 
