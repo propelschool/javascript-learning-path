@@ -15,7 +15,9 @@
 **Session** on Git and Github
 
 [Version Control with Git - Udacity Video Course](https://in.udacity.com/course/version-control-with-git--ud123)
+
 [GitHub & Collaboration - Udacity Video Course](https://in.udacity.com/course/github-collaboration--ud456)
+
 [Learn enough Git to be dangerous](https://www.learnenough.com/git-tutorial)
 
 [Resources and Practice](https://learngitbranching.js.org/) - Practice the **Learn Git branching** section
